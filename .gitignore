@@ -1,1 +1,7 @@
-/target
+*/target/*
+Cargo.lock
+output.log
+build
+.DS_Store
+target
+env
